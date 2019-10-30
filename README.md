@@ -9,8 +9,8 @@ I went through his jupyter notebooks and added my own annotations, along with ch
 
 All labs and manuals are available on his repo: https://github.com/sooshie/Security-Data-Analysis
 
-## Labs
-* Lab 1: apply pandas dataframe techniques on a connections log dataset
+## Labs (Descriptions and Datasets)
+* Lab 1: apply pandas dataframe techniques on a [connections log dataset](http://www.secrepo.com/Security-Data-Analysis/Lab_1/conn.log.zip)
 
 ## Requirements
 * Python 3
