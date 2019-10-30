@@ -19,7 +19,7 @@ All labs and manuals are available on his repo: https://github.com/sooshie/Secur
 * Jupyter Notebook
 
 ## Packages
-The following packages were installed:
+Make sure your Python (virtual) environment have these packages were installed:
 ```
 jupyter
 random
