@@ -22,6 +22,5 @@ All labs and manuals are available on his repo: https://github.com/sooshie/Secur
 Make sure your Python (virtual) environment have these packages were installed:
 ```
 jupyter
-random
 pandas
 ```
