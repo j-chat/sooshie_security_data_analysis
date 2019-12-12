@@ -24,4 +24,5 @@ Make sure your Python (virtual) environment have these packages were installed:
 ```
 jupyter
 pandas
+matplotlib
 ```
