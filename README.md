@@ -1,5 +1,5 @@
 # sooshie_security_data_analysis
-My annotations of a Security Data Analysis class taught by Mike Sconzo.
+My annotations of a Security Data Analysis class taught by Mike Sconzo. All annotations are typed in blue font.
 
 ## Background
 
@@ -12,6 +12,7 @@ All labs and manuals are available on his repo: https://github.com/sooshie/Secur
 ## Labs (Descriptions and Datasets)
 * Lab 1: Introduction to pandas dataframe and some exploratory data analysis. Dataset: [connections log](http://www.secrepo.com/Security-Data-Analysis/Lab_1/conn.log.zip)
 * Lab 2: Introduction to time series plotting and dataframe grouping. Dataset: [http log](http://www.secrepo.com/Security-Data-Analysis/Lab_2/http.log.zip)
+* Lab 2.1: 
 
 ## Requirements
 * Python 3
