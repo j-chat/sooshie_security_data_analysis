@@ -12,7 +12,7 @@ All labs and manuals are available on his repo: https://github.com/sooshie/Secur
 ## Labs (Descriptions and Datasets)
 * Lab 1: Introduction to pandas dataframe and some exploratory data analysis. Dataset: [connections log](http://www.secrepo.com/Security-Data-Analysis/Lab_1/conn.log.zip)
 * Lab 2: Introduction to time series plotting and dataframe grouping. Dataset: [http log](http://www.secrepo.com/Security-Data-Analysis/Lab_2/http.log.zip)
-* Lab 2.1: 
+* Lab 2.1: Failed attempts at time series plotting along with correlation graphing. Examine strings related to the shell shock exploit. Dataset: [honeypot data](http://www.secrepo.com/honeypot/honeypot.json.zip)
 
 ## Requirements
 * Python 3
@@ -26,4 +26,5 @@ Make sure your Python (virtual) environment have these packages were installed:
 jupyter
 pandas
 matplotlib
+geoip
 ```
